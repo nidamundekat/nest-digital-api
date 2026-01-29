@@ -1,0 +1,9 @@
+.product-img {
+    height: 160px;
+    width: 100%;
+    object-fit:contain;
+    padding:10px;
+}
+.product-card{
+    height: 100%;
+}
